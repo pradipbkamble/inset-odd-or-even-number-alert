@@ -23,8 +23,9 @@ if(oddeve%2===0){
 else{
     alert(`${oddeve} is odd`)
 }
-
+input1.reset()
 }
+
 
 
 
